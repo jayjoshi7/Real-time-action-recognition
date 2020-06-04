@@ -1,7 +1,7 @@
 # Realtime-Action-Recognition
 
 The video demonstration for the project can be found [here](https://youtu.be/eeVDUKJaNkg)
-https://youtu.be/eeVDUKJaNkg
+
 
 This repo is divided into nine directories:
 1. ``app``: Contains Flask application used for real-time web application
