@@ -1,4 +1,6 @@
 # Realtime-Action-Recognition
+CS 543 Computer Vision Project
+Author: Aniket Shirke and Jay Joshi
 
 The video demonstration for the project can be found [here](https://youtu.be/eeVDUKJaNkg)
 
