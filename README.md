@@ -2,8 +2,6 @@
 
 The video demonstration for the project can be found [here](https://youtu.be/eeVDUKJaNkg)
 
-<img src="results/result.gif" width="400"></img>
-
 This repo is divided into nine directories:
 1. ``app``: Contains Flask application used for real-time web application
 2. ``pi``: Contains code for communicating frames and extracting CNN features from Intel's Neural Compute Stick
