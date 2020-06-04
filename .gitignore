@@ -1,0 +1,16 @@
+action_frames/
+videos/
+compressed_action_frames*
+*.pyc
+*.npy
+*.out
+.ipynb_checkpoints
+*.zip
+*.pth
+checkpoints*
+bak-compressed_action_frames-60-all/
+*.mp4
+*.h5
+flow-compressed_action_frames-60-all/
+c3d_features/
+
